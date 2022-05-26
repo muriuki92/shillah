@@ -1,5 +1,5 @@
 p{
-    /* width: 50%; */
+    /* width:100; */
     float: left;
     border: 1px solid red;
     margin: 0 100px;
@@ -11,5 +11,4 @@ img{
      height:200px;
      border:10px dashed blue;
      border-radius: 0 0 50% 50%;
-
-}
+    }
