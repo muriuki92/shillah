@@ -13,3 +13,19 @@ img{
      border-radius: 0 0 50% 50%;
 
 }
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-image: url("images/csslogo.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+}
+.header img{
+    width: 130px;
+    height: 130px;
+}
