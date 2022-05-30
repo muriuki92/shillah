@@ -17,23 +17,23 @@ nav{
 }
 main{
     background-color: #46ee04;
-    grid-area: main;
+    grid-area: Main;
 }
 #sidebar{
     background-color: #09e5f5;
-    grid-area: sidebar;
+    grid-area:  sidebar;
 }
 #Content1{
-    background-color: #4ef094;
-    grid-area: content 1;
+    background-color: #097939;
+    grid-area: content1;
 }
 #content2{
     background-color: #aa09f5;
-    grid-area: content 2;
+    grid-area: content2;
 }
 #content3{
     background-color: #3f0729;
-    grid-area: content 3;
+    grid-area: content3;
 }
 footer{
     background-color: #e23376;
