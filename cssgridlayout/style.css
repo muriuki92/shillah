@@ -13,19 +13,19 @@
 }
 nav{
     background-color: #ee5a04;
-    grid-area: nav;
+    grid-area:nav;
 }
 main{
     background-color: #46ee04;
-    grid-area: Main;
+    grid-area:main;
 }
 #sidebar{
     background-color: #09e5f5;
-    grid-area:  sidebar;
+    grid-area:sidebar;
 }
-#Content1{
+#content1{
     background-color: #097939;
-    grid-area: content1;
+    grid-area:content1;
 }
 #content2{
     background-color: #aa09f5;
